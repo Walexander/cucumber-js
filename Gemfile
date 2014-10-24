@@ -1,6 +1,7 @@
 source :rubygems
 
 group :test do
+  gem "cucumber-pro", "0.0.17"
   gem "aruba", "0.4.11"
 end
 
